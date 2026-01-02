@@ -1,0 +1,4 @@
+playwright
+asyncio
+fake_useragent
+datetime
